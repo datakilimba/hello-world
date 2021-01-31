@@ -1,2 +1,2 @@
 # hello-world
-my first
+just doing the coursera data science specialization from JHU...
